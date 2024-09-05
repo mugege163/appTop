@@ -43,21 +43,19 @@ npm run test:h5
 ```
 ## 线上展示
 
-这里是示例图片：
+## 这里是示例图片：
 
-```
+
 手机浏览器运行
-```
-![运行实例展示]
+`````````
+
 <img src="assets/img/1.jpg" alt="功能展示" width="400" height="auto">
 <img src="assets/img/2.jpg" alt="功能展示" width="400" height="auto">
 <img src="assets/img/3.jpg" alt="功能展示" width="400" height="auto">
 
-
-```
 手机微信网页运行
-```
-![运行实例展示]
+`````````
+
 <img src="assets/img/4.jpg" alt="功能展示" width="400" height="auto">
 <img src="assets/img/5.jpg" alt="功能展示" width="400" height="auto">
 <img src="assets/img/6.jpg" alt="功能展示" width="400" height="auto">
