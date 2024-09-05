@@ -4,9 +4,14 @@
 
 `apptop` 是基于 `uni-app` 实现的移动端应用，主要功能是展示一些常用的手机应用。
 
+## 拉取代码
+```
+git clone https://github.com/mugege163/appTop.git
+```
+
 ## 开发环境
-- 开发环境：node:18+|npm
-- 开发工具：HBuilderX|vsCode
+- 开发环境：node:18+ | npm
+- 开发工具：HBuilderX | vsCode
 - 开发语言：Vue
 
 
@@ -43,15 +48,17 @@ npm run test:h5
 ```
 手机浏览器运行
 ```
-![运行实例展示](assets/img/1.jpg "")
-![运行实例展示](assets/img/2.jpg "")
-![运行实例展示](assets/img/3.jpg "")
+![运行实例展示]
+<img src="assets/img/1.jpg" alt="功能展示" width="400" height="auto">
+<img src="assets/img/2.jpg" alt="功能展示" width="400" height="auto">
+<img src="assets/img/3.jpg" alt="功能展示" width="400" height="auto">
 
 
 ```
 手机微信网页运行
 ```
-![运行实例展示](assets/img/4.jpg "")
-![运行实例展示](assets/img/5.jpg "")
-![运行实例展示](assets/img/6.jpg "")
-![运行实例展示](assets/img/7.jpg "")
+![运行实例展示]
+<img src="assets/img/4.jpg" alt="功能展示" width="400" height="auto">
+<img src="assets/img/5.jpg" alt="功能展示" width="400" height="auto">
+<img src="assets/img/6.jpg" alt="功能展示" width="400" height="auto">
+<img src="assets/img/7.jpg" alt="功能展示" width="400" height="auto">
